@@ -1,3 +1,4 @@
+
 # Whatsapp bot
 
 O sistema é um bot do whatsapp que manda mensagens para numeros de uma lista do excel para qualquer coisa, no exemplo está para cobrança.
@@ -19,7 +20,7 @@ O sistema é um bot do whatsapp que manda mensagens para numeros de uma lista do
 
 
 #
-English
+# English
 #
 
 # Whatsapp bot
