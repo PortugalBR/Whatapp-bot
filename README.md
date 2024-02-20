@@ -1,4 +1,4 @@
-#              /br
+#              
 # Português
 
 # Whatsapp bot
