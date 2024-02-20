@@ -1,3 +1,5 @@
+#
+Português
 
 # Whatsapp bot
 
@@ -21,7 +23,7 @@ O sistema é um bot do whatsapp que manda mensagens para numeros de uma lista do
 
 #
 # English
-#
+
 
 # Whatsapp bot
 
