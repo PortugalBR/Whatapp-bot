@@ -19,6 +19,7 @@ O sistema é um bot do whatsapp que manda mensagens para numeros de uma lista do
 
 
 # Whatsapp bot
+
 The system is an automatic WhatsApp bot that sends messages to numbers from an Excel list for any purpose, in the example, it is used for collections.
 
 ### Additional Features:
