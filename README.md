@@ -8,6 +8,10 @@
   </table>
 </div>
 
+# Problema:
+* PRECISO AUTOMATIZAR MINHAS MENSAGENS P/ MEUS CLIENTES GOSTARIA DE SABER VALORES, E GOSTARIA QUE ENTRASSEM EM CONTATO COMIGO P/ EXPLICAR MELHOR, QUERO PODER MANDAR MENSAGENS DE COBRANÇA EM DETERMINADO DIA COM CLIENTES COM VENCIMENTO DIFERENTE
+
+
 O sistema é um bot do whatsapp que manda mensagens para números de uma lista do excel para qualquer coisa, no exemplo está para cobrança.
 
 ### Funções Adicionais
@@ -36,6 +40,9 @@ O sistema é um bot do whatsapp que manda mensagens para números de uma lista d
     </tr>
   </table>
 </div>
+
+# Problem:
+* I NEED TO AUTOMATE MY MESSAGES TO MY CUSTOMERS I WOULD LIKE TO KNOW PRICES, AND I WOULD LIKE THEM TO CONTACT ME TO EXPLAIN IT BETTER, I WANT TO BE ABLE TO SEND BILLING MESSAGES ON A CERTAIN DAY TO CUSTOMERS WITH DIFFERENT VALUE PAYMENTS
 
 The system is an automatic WhatsApp bot that sends messages to numbers from an Excel list for any purpose. In the example, it is used for collections.
 
